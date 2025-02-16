@@ -4,7 +4,7 @@ const SOCIAL_LIST = [
     iconClass: "fas fa-envelope",
   },
   {
-    link: "https://www.linkedin.com/in/lehoainam1998/",
+    link: "https://www.linkedin.com/in/nhim411/",
     iconClass: "fab fa-linkedin",
   },
   {

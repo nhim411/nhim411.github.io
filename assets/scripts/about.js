@@ -10,13 +10,13 @@ const SKILLS = [
 		content: 'HTML5, CSS3, SCSS, ReactJS, Vue, Javascript, Typescript',
 	},
 	{
+		label: 'Back-end Technologies',
+		content: 'NodeJS, NestJS, MySQL, PorgesSQL',
+	},
+	{
 		label: 'Embedded Technologies',
 		content: 'C/C++ Programming, PLC Programming',
 	},
-	// {
-	// 	label: 'Back-end Technologies',
-	// 	content: 'NodeJS (ExpressJS), RESTful API, Pug Engine, MongoDB',
-	// },
 	{
 		label: 'Development Tools / Teamwork Tools',
 		content: 'Vscode, Git, Backlog',
